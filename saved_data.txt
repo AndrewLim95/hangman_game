@@ -1,0 +1,1 @@
+{"number_of_tries":8,"game_over":false,"secret_word":"patent\n"}
